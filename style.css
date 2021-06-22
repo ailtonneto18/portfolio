@@ -199,7 +199,7 @@ header {
 .menu-link {
     font-family: var(--font-action);
     font-size: 2rem;
-    color: #555;
+    color: #a044ff;
     transition: color 1s;
 }
 
